@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6c830841-8746-480d-9329-d5c196e2224e"
+      }
+    },
+    "android": {
+      "package": "com.dima5267.motogarage"
+    }
+  }
+}
